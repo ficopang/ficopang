@@ -30,15 +30,15 @@ Here are some ideas to get you started:
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p>
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ficopang&show_icons=true&locale=en" alt="ficopang" />
 </p>
 
-<h3>Github Stat</h3>
+<h3 align="left">Github Stat</h3>
 <p>
   <!-- GitHub README Stats -->
   <a href="https://github.com/ficopang?tab=repositories">
-    <img width="auto" height="auto" align="left" alt="ficopang's github stats" 
+    <img width="450" height="auto" align="left" alt="ficopang's github stats" 
          src="https://github-readme-stats.vercel.app/api?username=ficopang&show_icons=true&theme=algolia&count_private=true" />
   </a>
 </p>
