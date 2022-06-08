@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <p>
   <!-- GitHub README Stats -->
   <a href="https://github.com/ficopang?tab=repositories">
-    <img width="400" height="auto" align="left" alt="ficopang's github stats" 
+    <img width="350" height="auto" align="left" alt="ficopang's github stats" 
          src="https://github-readme-stats.vercel.app/api?username=ficopang&show_icons=true&theme=algolia&count_private=true" />
   </a>
 </p>
