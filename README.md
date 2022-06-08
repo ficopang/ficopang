@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ficopang&label=Profile%20views&color=0e75b6&style=flat" alt="ficopang" /> </p>
 
-- 👨‍💻 All of my projects are available at [ficopang.github.io](ficopang.github.io)
+- 👨‍💻 All of my projects are available at [ficopang.github.io](https://ficopang.github.io)
 
 - 📫 How to reach me **pangestufico@gmail.com**
 
